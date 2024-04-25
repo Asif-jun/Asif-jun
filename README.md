@@ -1,6 +1,6 @@
-
-
-[![Header](https://github.com/Asif-jun/Asif-jun/blob/main/assets/452af39e8f2977f5b5b4e3d10c5475cb.gif min-width=100px)](https://github.com/Asif-jun)
+<div align="center">
+	<img src="assets/pc.gif" alt="">
+</div>
 
 <div id="header" align="center">
 	<h1>Всем привет, меня зовут Асиф &#128515;</h1>
@@ -24,6 +24,7 @@
 	<a href="https://www.linkedin.com/in/asif-abbasov-86a838296/">
 		<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=likedin&logoColor=write" alt="Linkedin">
 	</a>
+
 	<a href="https://t.me/@Zass_Massa">
 		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=write" alt="Telegram">
 	</a>
@@ -47,8 +48,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webpack/webpack-original.svg" title="webpack" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" title="figma" width="40" height="40"/>&nbsp;
 
-
-<br/>
 <br/>
 
 ### My stat
