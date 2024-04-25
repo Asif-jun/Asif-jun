@@ -1,9 +1,9 @@
 
 
-[![Header](https://github.com/Asif-jun/Asif-jun/blob/main/assets/452af39e8f2977f5b5b4e3d10c5475cb.gif)](https://github.com/Asif-jun)
+[![Header](https://github.com/Asif-jun/Asif-jun/blob/main/assets/452af39e8f2977f5b5b4e3d10c5475cb.gif min-width=100px)](https://github.com/Asif-jun)
 
 <div id="header" align="center">
-	<h1>Всем привет, меня зовут Асиф</h1>
+	<h1>Всем привет, меня зовут Асиф &#128515;</h1>
 </div>
 <div>
 	<p>Я начинающий Frontend разработчик.</p>	
@@ -15,12 +15,51 @@
 	</p>
 </div>
 
+### Обо мне :technologist:
+- 🌱 Сейчас я совершентсвую свои навыки **JS 	:orange_book:, React :blue_book:**
+- 📫 Свяжитесь со мной через [LinkedIn]("https://www.linkedin.com/in/asif-abbasov-86a838296/"), [email]("https://mail.google.com/mail/u/0/#inbox")
+- 🌍 Я говорю по-английски (уровень владения А2)
+- :house: Я живу в г. Баку (Азербайджан), готов рассмотреть варинты командировки или перезда в другую страну :airplane: :luggage:
+<div id="socials" align="center">
+	<a href="https://www.linkedin.com/in/asif-abbasov-86a838296/">
+		<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=likedin&logoColor=write" alt="Linkedin">
+	</a>
+	<a href="https://t.me/@Zass_Massa">
+		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=write" alt="Telegram">
+	</a>
+</div>
+
+---
 
 ## Languages and tools
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=000)
-![React](https://img.shields.io/badge/React-4E7AB5?style=for-the-badge&logo=React&logoColor=000)
-![HTML](https://img.shields.io/badge/HTML-E65100?style=for-the-badge&logo=HTML&logoColor=000)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Asif-jun&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="js" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="ts" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="react" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" title="vitejs" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="html" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="sass" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" title="css" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="git" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" title="github" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" title="bootstrap" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gulp/gulp-plain.svg" title="gulp" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webpack/webpack-original.svg" title="webpack" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" title="figma" width="40" height="40"/>&nbsp;
+
+
+<br/>
+<br/>
+
+### My stat
+
+<div id="stat" align="center">
+	<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Asif-jun&theme=algolia" alt="">
+	<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Asif-jun&theme=algolia" alt="">
+	<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Asif-jun&theme=algolia" alt="">
+	<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Asif-jun&theme=algolia" alt="">
+	<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Asif-jun&theme=algolia&utcOffset=8" alt="">
+</div>
+
 
 
