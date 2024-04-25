@@ -9,22 +9,22 @@
 	<p>Я начинающий Frontend разработчик.</p>	
 	<p>С марта 2023 года по апрель 2024 я изучал Frontend разработку на платформе UDEMY, где закончил следующие курсы:
 		<ul style="list-style-type: none;">
-			<li>- WEB-разработчик, </li>
-			<li>- Полный курс по JavaScript + React - с нуля до результата.</li>
+			<li style="list-style-type: none;"> WEB-разработчик, </li>
+			<li style="list-style-type: none;"> Полный курс по JavaScript + React - с нуля до результата.</li>
 		</ul>
 	</p>
 </div>
 
 ### Обо мне :technologist:
-- 🌱 Сейчас я совершентсвую свои навыки JS :orange_book:, React :blue_book:;
-- 📫 Вы также можете связаться со мной через email aassifabbasov@gmail.com;
-- 🌍 Мой уровень владения английским А2 (Elementary);
-- :house: Я живу в г. Баку (Азербайджан), готов рассмотреть варинты командировки или перезда в другую страну :airplane: :luggage:
+- 🌱 Сейчас я совершентсвую свои навыки в JS :orange_book: и React :blue_book:;
+- 📫 Вы также можете связаться со мной через email :email: 'aassifabbasov@gmail.com', а также по номеру Whatsapp :telephone_receiver: (+7-999-644-09-18);
+- 🌍 Мой уровень владения английским :england: А2 (Elementary);
+- :house: Я живу в г. Баку (Азербайджан :azerbaijan:), готов рассмотреть варинты командировки или перезда в другую страну :airplane: :luggage:
 <div id="socials" align="center">
 	<a href="https://www.linkedin.com/in/asif-abbasov-86a838296/">
 		<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=likedin&logoColor=write" alt="Linkedin">
 	</a>
-	<a href="https://t.me/@Zass_Massa">
+	<a href="https://t.me/Zass_Massa">
 		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=write" alt="Telegram">
 	</a>
 </div>
