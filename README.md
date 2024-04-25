@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" width=100%>
 	<img src="assets/pc.gif" alt="">
 </div>
 
@@ -24,7 +24,6 @@
 	<a href="https://www.linkedin.com/in/asif-abbasov-86a838296/">
 		<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=likedin&logoColor=write" alt="Linkedin">
 	</a>
-
 	<a href="https://t.me/@Zass_Massa">
 		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=write" alt="Telegram">
 	</a>
@@ -32,7 +31,7 @@
 
 ---
 
-## Languages and tools
+## Языки и технологии
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="js" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="ts" width="40" height="40"/>&nbsp;
@@ -50,7 +49,7 @@
 
 <br/>
 
-### My stat
+### Моя статистика
 
 <div id="stat" align="center">
 	<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Asif-jun&theme=algolia" alt="">
