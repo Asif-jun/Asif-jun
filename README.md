@@ -15,7 +15,7 @@
 ### :technologist:  Обо мне 
 - :house: Я живу в г. Баку (Азербайджан :azerbaijan:);
 - :technologist: Применяю стек (:orange_book: JS, :blue_book: React и TS) технологий в самостоятельных проектах с упором на чистый код, адаптивность и читаемость;
-- :england: Английский язык: **B1 (продолжаю совершенствовать)** :speaking_head:.
+- :england: Мой уровень владения английским языком: **B1 (продолжаю совершенствовать)** :speaking_head:.
 
 ### :toolbox:  Технологии:
 
@@ -59,7 +59,7 @@
 
 <br/>
 
-### :mailbox: Мои контакты  
+### :mailbox: Контакты для связи со мной 
 
 - :mailbox_with_mail: [aassifabbasov@gmail.com](mailto:aassifabbasov@gmail.com)  
 - :iphone: +7-999-644-09-18  
