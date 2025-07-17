@@ -62,7 +62,7 @@
 ### :mailbox: Контакты для связи со мной 
 
 - :mailbox_with_mail: [aassifabbasov@gmail.com](mailto:aassifabbasov@gmail.com)  
-- :iphone: +7-999-644-09-18  
+- :iphone: +7-999-644-09-18 (Whats App) 
 - :octocat: [GitHub](https://github.com/Asif-jun)  
 - :link: [LinkedIn](https://www.linkedin.com/in/asif-abbasov-86a838296/)  
 - :link: [Telegram](https://t.me/Zass_Massa)  
